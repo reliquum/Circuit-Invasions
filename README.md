@@ -1,12 +1,11 @@
-# 회로의 침공술 엔지니어링 노트
+# 회로의 침공술
 
 ## [회로의 침공술이란?](/Introduction/Introduction_page.md)
 
 ## 진행상황 
-
-- [플라스틱 사출](/Injection_Mold/) 
-- [3D 프린터 목업](/CAD/Jeju/jeju_v1.png) 
-- [PCB 설계](/PCB/Jeju/Jeju_v1.png) 
+- ![플라스틱 사출](/Injection_Mold/Injection_1.png)
+- ![3D 프린터 목업](/CAD/Jeju/button.png) 
+- ![PCB 설계](/PCB/Jeju/Jeju_v1.png) 
 
 ## 연구
 
