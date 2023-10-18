@@ -1,13 +1,13 @@
-# 회로의 침공술
+# [회로의 침공술에서 제작이란?](/Introduction/Introduction_page.md)
 
-## [회로의 침공술이란?](/Introduction/Introduction_page.md)
+![img](https://reliquum.co.kr/wp-content/uploads/2018/10/BLOCK_OLD1-1024x683.jpg)
 
-## 진행상황 
-- ![플라스틱 사출](/Injection_Mold/Injection_1.png)
-- ![3D 프린터 목업](/CAD/Jeju/button.png) 
-- ![PCB 설계](/PCB/Jeju/Jeju_v1.png) 
+회로의 침공술은 누구나 블록을 만들어볼 수 있고 개조할 수 있으며 게임을 직접 개발할 수 있는 구조로 설계되어있다.  
 
-## 연구
+
+
+
+## 연구노트  
 
 - [3D 프린터로 소량제작](/R&D/3DPrint.md) 
 - [교체가 쉬운 베터리블록](/R&D/BatteryCase.md) 
